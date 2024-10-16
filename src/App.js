@@ -1,5 +1,4 @@
-import React from "react"
-
+import React from "react";
 
 // function App(){
 //     function clickHandler(){
@@ -19,7 +18,6 @@ import React from "react"
 //     )
 // }
 
-
 // class App extends React.Component {
 //     clickHandler() {
 //         console.log('wooow greeat code')
@@ -30,7 +28,6 @@ import React from "react"
 //     )
 // }
 // }
-
 
 // function App(){
 //     const clickHandler = () => {
@@ -68,7 +65,6 @@ import React from "react"
 //     )
 // }
 
-
 // class App extends React.Component {
 //     clickHandler(name){
 //         console.log(`click done by ${name}`)
@@ -90,7 +86,6 @@ import React from "react"
 //         )
 //     }
 // }
-
 
 // function App(){
 //     const btnClick = (event)=>{
@@ -121,7 +116,6 @@ import React from "react"
 //         <button onClick={btnClick}>Clickkkk</button>
 //     )
 // }
-
 
 // function App(){
 //     function btnClick(event){
@@ -153,7 +147,4 @@ import React from "react"
 //     )
 // }
 
-
-
-
-export default App
+export default App;
